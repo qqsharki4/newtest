@@ -55,7 +55,7 @@ class AudioConverterMod(loader.Module):
                 "Название по умолчанию (используйте {format} для подстановки формата)"
             ),
             loader.ConfigValue(
-                "default_performer",
+                "default_performer", # KHDSFJBVKYHEDRFBKVYHUEDKUJV
                 "t.me/qq_shark",
                 "Исполнитель по умолчанию"
             ),
