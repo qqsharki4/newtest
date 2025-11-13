@@ -35,7 +35,7 @@ class StoryManagesMod(loader.Module):
         "uploading": "📤 Uploading story...",
         "success": """✅ Story successfully published!
 ⏰ Duration: {} hours""",
-        "multi_start": "📤 Starting publication of {} stories...",
+        "multi_start": "📤 Starting publication of {} stories...",  # OFIJBOERJBOIJERB
         "multi_progress": "✅ Published: {}/{} ⏳ Remaining: {}",
         "multi_complete": """🎉 Completed!
 ✅ Successfully published: {}/{} stories
