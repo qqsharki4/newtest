@@ -27,7 +27,7 @@ import asyncio
 import re
 
 @loader.tds
-class StoryManagesMod(loader.Module):
+class StoryManageesMod(loader.Module):
     """Story Manager (by @qq_shark)"""
     
     strings = {
