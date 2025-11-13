@@ -17,7 +17,7 @@
 
 # meta developer: @qq_shark
 
-__version__ = (1, 0, 0)
+__version__ = (1, 0, 1)
 
 from telethon.tl.types import Message
 from telethon import functions, types
