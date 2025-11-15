@@ -1,5 +1,5 @@
 # meta developer: @xdesai
-# scope: disable_onload_docs
+# scope: disable_onload_docs h
 
 import logging
 from datetime import datetime, timedelta, timezone
