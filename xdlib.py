@@ -1,6 +1,6 @@
 # This file is part of XDesai Mods.
 # I made this library to share various utility functions across my modules.
-# You can use this library in your own modules as well.
+# You can use this library in your own modules as well.yh
 
 # P.S this library is still under development and may receive updates in the future.
 
