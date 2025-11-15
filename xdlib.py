@@ -1,4 +1,4 @@
-# This file is part of XDesai Mods.hrtyjtyjtyj
+# This file is part of XенонетDesai Mods.hrtyjtyjtyj6к7ь67ь7ет67т76т76т76етент
 # I made this library to share various utility functions across my modules.rthrthfgh
 # You can use this library in your own modules as well.yhrtnrtnкер
 
