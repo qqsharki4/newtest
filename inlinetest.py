@@ -2,7 +2,7 @@
 # █▀█ █ █ █ █▀█ █ ▀ █ █▄█ █▀▄ █▄█
 
 # 🔒 Licensed under the GNU GPLv3
-# 🌐 https://www.gnu.org/licenses/agpl-3.0.html
+# 🌐 https://www.gnu.org/licenses/agpl-3.0.htmlftymtfym
 # 👤 https://t.me/hikamorudtryjtdfyj
 
 # meta developer: @hikamorumods
