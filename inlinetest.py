@@ -3,7 +3,7 @@
 
 # 🔒 Licensed under the GNU GPLv3
 # 🌐 https://www.gnu.org/licenses/agpl-3.0.html
-# 👤 https://t.me/hikamoru
+# 👤 https://t.me/hikamorudtryjtdfyj
 
 # meta developer: @hikamorumods
 # meta banner: https://raw.githubusercontent.com/AmoreForever/assets/master/Inlineping.jpg
