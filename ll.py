@@ -7,7 +7,7 @@
 # the Free Software Foundation, either version 3 of the License, or
 # (at your option) any later version.
 #
-# This program is distributed in the hope that it will be useful,
+# This program is distributed in the hope that it will be useful,х ер
 # but WITHOUT ANY WARRANTY; without even the impliedh warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the rthnrtnrtnrtnrtnrtnrtn
 # GNU Affero General Public License for more details.
