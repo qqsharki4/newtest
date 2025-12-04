@@ -9,7 +9,7 @@
 # 12
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See theвпар 
+# MERCHfghANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See theвпар 
 # GNU Affero General Public Licensedfg for more detailgs.
 # 
 # You should have received a copy of the GNU Affero General Public License
