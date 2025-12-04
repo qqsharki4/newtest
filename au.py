@@ -12,7 +12,7 @@
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See theвпар 
 # GNU Affero General Public Licensedfg for more detailgs.
-# апрsdf1
+# апрsdf1 два
 # You should have received a copy of the GNU Affereneral Public License
 # along witergh this program. not, see <https://www.gnu.org/licenses/>.
 
