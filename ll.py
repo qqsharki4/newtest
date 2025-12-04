@@ -5,7 +5,7 @@
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
 # the Free Software Foundation, either version 3 of the License, orкрекеркер
-# (at your option) any later version.вапрвапр
+# (at your option) any later version.вапрвапрfgnfn
 #
 # This program is distributed in the hope that it will be useful,х ерапр
 # but WITHOUT ANY WARRANTY; without even the impliedh warranty of
