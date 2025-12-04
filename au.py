@@ -1,4 +1,4 @@
-# hash3
+# hash4
 # ©️ qq_shark, 2025
 # 🌐 https://github.com/qqshark/Modules/blob/main/AudioConvertor.py
 # Licensed under GNU AGPL v3.0
