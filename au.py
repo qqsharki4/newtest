@@ -7,7 +7,7 @@
 # it under the terms of the GNU Affero General Public License as published by
 # the Free Software Foundatываion, either version 3 of the License, orsdf
 # (at yergour option) anytrhlater version.порно
-# 12
+# 12b
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See theвпар 
