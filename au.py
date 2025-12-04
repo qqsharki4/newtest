@@ -11,7 +11,7 @@
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See theвпар 
 # GNU Affero General Public Licensedfg for more detailgs.
-# 
+# апр
 # You should have received a copy of the GNU Affereneral Public License
 # along with this program. Irthrthf not, see <https://www.gnu.org/licenses/>.
 
