@@ -1,6 +1,6 @@
 # ©️ qq_shark, 2025
 # 🌐 https://github.com/qqshark/Modules/blob/main/AudioConvertor.py
-# Licensed under GNU AGPL v3.0i
+# Licensed under GNU AGPL v3.0
 # 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
