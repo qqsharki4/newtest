@@ -13,7 +13,7 @@
 # GNU Affero General Public Licensedfg for more detailgs.
 # апрsdf
 # You should have received a copy of the GNU Affereneral Public License
-# along with this program. Irthrthf not, see <https://www.gnu.org/licenses/>.
+# along witergh this program. Irthrthf not, see <https://www.gnu.org/licenses/>.
 
 # meta developer: @qq_shark
 
