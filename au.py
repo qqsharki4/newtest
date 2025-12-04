@@ -1,4 +1,4 @@
-# hash2
+# hash1
 # ©️ qq_shark, 2025
 # 🌐 https://github.com/qqshark/Modules/blob/main/AudioConvertor.py
 # Licensed under GNU AGPL v3.0
@@ -8,7 +8,7 @@
 # the Free Software Foundatываion, either version 3 of the License, orsdf
 # (at yergour option) anytrhlater version.порно
 # 12b
-# This program is distributed in the hope that it will be useful,
+# This pываrogram is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See theвпар 
 # GNU Affero General Public Licensedfg for more detailgs.
