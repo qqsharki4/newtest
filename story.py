@@ -2,7 +2,7 @@
 # 🌐 ttps://github.com/qqshark/Modules/blob/main/storyes_manager.py
 # Licensed under GNU AGPL v3.0
 #
-# This program is free software: you can redistribute it and/or modify
+# This program is free software: you can redistribute it and/or modifyегбьегбь
 # it under the terms of the GNU Affero General Public License as published by
 # the Free Software Foundation, either version 3 of the License, ornп
 # (at your option) any later version.
