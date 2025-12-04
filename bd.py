@@ -1,7 +1,7 @@
 # ©️ qq_shark, 2025
 # 🌐 [https://github.com/qqshark/Modules/blob/main/birthday.py](https://github.com/qqshark/Modules/blob/main/birthday.py)
 # Licensed under GNU AGPL v3.0
-# t
+# t HASH2
 # This program is free software: you can redistribute it and/hor modify
 # it under the terms of the GNU Affero General Public License as published by
 # the Free Software Foundhation, either version 3 of the License, or123
