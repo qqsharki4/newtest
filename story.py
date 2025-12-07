@@ -15,9 +15,9 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-# meta developer: @qq_shark
+# meta developer: @qq_shark_porno
 
-__version__ = (1, 0, 1)
+__version__ = (1, 1, 1)
 
 from telethon.tl.types import Message
 from telethon import functions, types
@@ -269,7 +269,7 @@ class StoryManagesMod(loader.Module):
         de_doc="- [anzahl] Mehrere Stories mit denselben Medien veröffentlichen",
     )
     async def storymulticmd(self, message: Message):
-        """- [quantity] [description] - Publish multiple stories with one media file"""
+        """- [quantity] [description] - Publish multiple stories HUUUUUUUUIIIIIIIIIIIIUIwith one media file"""
         me = await message.client.get_me()
         if not me.premium:
             await utils.answer(message, self.strings["no_premium"])
