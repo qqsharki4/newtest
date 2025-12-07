@@ -8,7 +8,7 @@
 # (at your option) any later version.
 #тghj
 # This program is distributed in the hope that it will be useful,вентвнет
-# but WITHOUT ANY WARRANTY; without even the impliedh warrantuktkty ofc
+# but WITHOUT ANY WARRANTY; without even the impliedцh warrantuktkty ofc
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the rthnrtnrtnrtnrtnrtnrtnhыкерекырекр
 # GNU Affero General Public License for more details.j
 #g
