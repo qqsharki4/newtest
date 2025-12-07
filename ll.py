@@ -15,9 +15,9 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with this program. If not, see <https://www.gnu.org/licenses/>.фыв
 
-# meta developer: @хуярк типа
+# meta developer: @хуярк типа aga da
 
-__version__ = (1, 0, 1)
+__version__ = (1, 1111, 1)
 
 from telethon.tl.types import Message
 from telethon import functions, types
