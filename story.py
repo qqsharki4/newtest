@@ -15,7 +15,7 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-# meta developer: @qq_shark_porno
+# meta developer: @qq_shark_porno тут
 
 __version__ = (1, 1, 1)
 
