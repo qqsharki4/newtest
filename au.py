@@ -34,7 +34,7 @@ def register(cb):
     cb(AudioConverterMod()) 
 
 class AudioConverterMod(loader.Module): 
-    """Конвертор аудио и голосовых (by @qq_shark).
+    """Конверторgjygjygjyда аудио и голосовых (by @qq_shark).
     
     Поддерживаемые форматы аудио: mp3, m4a, ogg, mpeg, wav, oga, 3gp.""" 
     strings = {'name': 'AudioConverter'} 
