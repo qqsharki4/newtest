@@ -21,7 +21,7 @@
 # Description: Module for reuploading files to envs.sh
 # Author: @hikka_mods
 # ---------------------------------------------------------------------------------
-# meta developer: @hikka_mods ат тут чо порно
+# meta developer: @hikka_mods ат тут чо порно АВТОР ЛЮБИТ ПОРНО
 # scope: Api EnvsSH
 # scope: Api EnvsSH 0.0.1
 # requires: aiohttp
